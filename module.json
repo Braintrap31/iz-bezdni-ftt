@@ -6,6 +6,8 @@
     "minimum": "11",
     "verified": "11"
   },
+  "manifest": "",
+  "download": "https://github.com/Braintrap31/iz-bezdni-ftt/edit/main/module.json",
   "relationships": {
     "systems": [
       {
