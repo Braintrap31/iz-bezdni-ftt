@@ -1,0 +1,75 @@
+{
+  "id": "braintrap-studio-iz-bezdni",
+  "title": "BS Из Бездны",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "monks-enhanced-journal",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "stairways",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "item-piles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "bs-iz-bezdny",
+      "label": "BS Из Бездны",
+      "path": "packs/bs-iz-bezdny",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Braintrap Studio",
+      "url": "https://boosty.to/braintrapstudio",
+      "discord": "discord"
+    }
+  ]
+}
