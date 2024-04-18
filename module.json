@@ -6,7 +6,7 @@
     "minimum": "11",
     "verified": "11"
   },
-  "manifest": "https://github.com/Braintrap31/iz-bezdni-ftt/edit/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Braintrap31/iz-bezdni-ftt/main/module.json",
   "download": "https://www.dropbox.com/scl/fi/fduwk8g0zge0evkvx2v0a/braintrap-studio-iz-bezdni.zip?rlkey=ckogbb5ktoelcv6cenwja5dtk&st=k3riv9ui&dl=1",
   "relationships": {
     "systems": [
